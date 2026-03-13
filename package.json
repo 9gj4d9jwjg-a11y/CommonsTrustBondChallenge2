@@ -1,7 +1,7 @@
 {
-  "name": "xrpl-challenge-1-trustlines",
+  "name": "xrpl-challenge-2-On-Chain Evidence",
   "version": "1.0.0",
-  "description": "Template for XRPL Trustlines Challenge",
+  "description": "Template for XRPL On-Chain Evidence",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

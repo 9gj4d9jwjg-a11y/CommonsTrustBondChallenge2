@@ -1,0 +1,12 @@
+{
+  "name": "xrpl-challenge-1-trustlines",
+  "version": "1.0.0",
+  "description": "Template for XRPL Trustlines Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "xrpl": "^latest"
+  }
+}
